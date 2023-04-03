@@ -1,5 +1,5 @@
 # HomeClash
-Custom rule (.list) and proxy (.ini) on airport for HomeClash (@HOMELEDE soferouter) based on ACL4SSR
+Custom rule (.list) and proxy (.ini) on airport for HomeClash (@HOMELEDE softrouter) based on ACL4SSR
 # Clash规则
 
 | 文件                   | 类型                 | 解释                                                         |
